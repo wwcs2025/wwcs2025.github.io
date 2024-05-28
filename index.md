@@ -20,19 +20,21 @@ This is the 9th edition of the WWCS and it will be held in the Catalan Pyrenees 
 
 ## Workshop Dates:
 
--   **January 21st to Jan 26th 2024**
+-   **End of January 2025**
 
 ## Applications:
 
-- Start of applications: **September 20th**
-- Deadline for applications: ~~October 20th~~ **October 25th**
-- Notification of acceptance: **November 6th**
+- Start of applications: **September 2024**
+- Deadline for applications: **October 2024**
+- Notification of acceptance: **November 2024**
 
-The application form is available [here](https://forms.gle/wUn8vCVpjqXkvCjd9).
+More details about the application process will be provided soon.
+
+<!---The application form is available [here](https://forms.gle/wUn8vCVpjqXkvCjd9).-->
 
 # Contacts
 
-Email us at: [wwcs2024@gmail.com](mailto:wwcs2024@gmail.com) <!-- Twitter: "@winter_complex" -->
+Email us at: [wwcs2025@gmail.com](mailto:wwcs2025@gmail.com) <!-- Twitter: "@winter_complex" -->
 
 <center>
 <a class="twitter-timeline" data-width="300" data-height="550" href="https://twitter.com/winter_complex">Tweets by wwcs</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> </center>
