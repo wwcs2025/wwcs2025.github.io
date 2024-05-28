@@ -3,6 +3,10 @@ layout: page
 title:  Projects
 ---
 
+Available soon.
+
+<!---
+
 ## Information theory of individuality
 by Todd Davies, Deniz Durmus, Juan Gancio, Akanksha Khurd, Sara Neven, Patrick Schwabl, Antoine Vendeville, and Sebastian Zimper.
 
@@ -43,3 +47,5 @@ by Gemma Bel, Annalisa Caligiuri, Christos Charalambous, Laura Dozal, Michael Ga
 
 **Abstract:**
 We implemented a complex system analysis of trophallaxis interactions in honeybee colonies. We investigated the presence of time correlations in trophallaxis networks, explored individual differences based on bees’ behavioral attributes, and suggested approaches to examine the relationship between burstiness and spreading dynamics comparing honeybee and human temporal networks. 
+
+-->

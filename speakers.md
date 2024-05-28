@@ -3,6 +3,10 @@ layout: page
 title:  Speakers
 ---
 
+Available soon.
+
+<!---
+
 <img style="float: centre;" src="/assets/image24/speakers/alberto.jpeg" width="40%"/>
 
 [Alberto Aletá](https://aaleta.github.io/)
