@@ -3,7 +3,7 @@ layout: page
 title:  Partners
 ---
 
-Available soone.
+Available soon.
 
 <!---
 
