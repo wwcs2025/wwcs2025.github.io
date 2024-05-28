@@ -6,7 +6,7 @@ title:  Application
 To attend the Winter Workshop, we ask all interested individuals to submit an application form and a CV. Bear in mind the following dates:
 
 - Start of applications: **September 20th**
-- Deadline for applications: ~~October 20th~~ **October 25th**
+- Deadline for applications: **October 25th**
 - Notification of acceptance: **November 6th**
 
 The application form is available [here](https://forms.gle/wUn8vCVpjqXkvCjd9).
@@ -36,4 +36,3 @@ We will split the rooms based on gender. In case you prefer to have a single roo
 
 We hope to enable all students independent of financial means to attend the winter school. Therefore, we have reserved a limited budget for travel grants. Please send us an email with a motivation (200 words) and a list of needed funds to our email address [wwcs2024@gmail.com](mailto:wwcs2024@gmail.com). With the acceptance letter, we will notify you with how much money we can support you. In case the required budget exceeds the available funds, we might not be able to cover all your needed costs.
 -->
-
