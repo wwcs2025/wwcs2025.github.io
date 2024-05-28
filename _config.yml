@@ -31,7 +31,7 @@ description:           >
 
 # A shorter description for the sidebar.
 tagline:               >
-  Winter 2025, Italy
+  End of January 2025, Italy
 
 # A list of keywords for your blog
 keywords:              []
@@ -110,7 +110,7 @@ paginate_path:         /page-:num/
 # ========================================================================================
 
 # Sidebar image and theme color of the site.
-accent_image:          /assets/image25/trentino.jpeg
+accent_image:          /assets/image24/venue/pyrenees.jpg
 accent_color:          rgb(118,194,138)
 
 # This is used for the `theme-color` meta tag,
