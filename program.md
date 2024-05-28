@@ -22,5 +22,4 @@ title:  Program
 
 -   Night games and activities.
 
-<img src="/assets/image25/program.pdf" width="100%"/>
--->
+<img src="/assets/image25/program.png" width="100%"/>
