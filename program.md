@@ -3,12 +3,10 @@ layout: page
 title:  Program
 ---
 
-Available soon.
 
-<!---
 **Main activities:**
 
--   Keynote talks: Alberto Aletá, Marta Sales-Pardo, and Sofia Teixeira will present their work.
+-   Keynote talks: speakers to be announced.
 
 -   Tutorials: proposed and given by the participants on relevant topics.
 
@@ -16,13 +14,13 @@ Available soon.
 
 **Social activities:**
 
--   Social event in Barcelona before leaving for the venue at La Muriel (Carrer de Verntallat, 30).
+-   Social event in Bergamo/Verona before leaving for the venue.
 
--   Guided tour of the Volcanic area
+-   Mountain hike: discover the beautiful mountains of the region with a group hike.
 
--   Stargazing activity
+-   Guided tour of Trentino.
 
--   Night games and activities
+-   Night games and activities.
 
-<img src="/assets/image24/program.png" width="100%"/>
+<img src="/assets/image25/program.pdf" width="100%"/>
 -->
