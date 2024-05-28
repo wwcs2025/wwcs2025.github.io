@@ -22,7 +22,7 @@ You can contact us at [wwcs2025@gmail.com](mailto:wwcs2025@gmail.com) or write u
 | <img src="/assets/image25/logo_notext.png" width="120px" /> | <img src="/assets/image25/logo_notext.png" width="120px" /> | <img src="/assets/image25/logo_notext.png" width="120px" /> |
 | Università Cattaneo <br> Castellanza, Italy | Fondazione Bruno Kessler <br> Trento, Italy | Complexity Science Hub <br> Vienna, Austria |
 
-| [Todd Davies]() | [Antoine Vendeville]() | [Zimai]() |
+| [Todd Davies]() | [Antoine Vendeville](https://antoinevendeville.github.io/) | [Zimai]() |
 | :------------------------------------------: | :----------------------------------------------: | :------------------: |
 | <img src="/assets/image25/committee/Todd.jpg" width="120px" /> | <img src="/assets/image25/committee/antoine.jpg" width="120px" /> | <img src="/assets/image25/logo_notext.png" width="120px" /> |
 | UCL Faculty of Laws <br> London, UK | médialab Sciences Po <br> Paris, France | Max Planck Institute for Chemical Ecology <br> Germany |
