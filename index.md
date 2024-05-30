@@ -7,7 +7,7 @@ layout: about #home il layout home ti mette la lista di pagine
 ---
 
 <center>
-<img src="/assets/image25/logo.png" width="50%"/>
+<img src="/assets/image25/logo_nobg.png" width="50%"/>
 </center>
 
 The **Winter Workshop on Complex Systems** is a one-week workshop where young researchers worldwide come together to work on interdisciplinary projects around complex systems.
