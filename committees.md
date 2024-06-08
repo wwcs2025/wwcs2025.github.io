@@ -14,7 +14,7 @@ You can contact us at [wwcs2025@gmail.com](mailto:wwcs2025@gmail.com) or write u
 
 | [Eider Pérez-Ordoyo]() | [Elisa Nobile]() | [Pablo Rosillo-Rodes]() |
 | :------------------------------------------: | :----------------------------------------------: | :------------------: |
-| <img src="/assets/image25/logo_notext_nobg.png" width="120px" /> | <img src="/assets/image25/logo_notext_nobg.png" width="120px" /> | <img src="/assets/image25/logo_notext_nobg.png" width="120px" /> |
+| <img src="/assets/image25/eider.jpg" width="120px" /> | <img src="/assets/image25/logo_notext_nobg.png" width="120px" /> | <img src="/assets/image25/logo_notext_nobg.png" width="120px" /> |
 | Universidad Pompeu Fabra <br> Barcelona, Spain | University School of Advanced Studies <br> Pavia, Italy | IFISC <br> Balearic Islands, Spain |
 
 | [Francesco]() | [Alfredo De Bellis]() | [Mauritz]() |
