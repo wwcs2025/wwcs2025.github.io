@@ -7,9 +7,9 @@ You can contact us at [wwcs2025@gmail.com](mailto:wwcs2025@gmail.com) or write u
 
 ## Scientific Committee
 
-| [Natalia Brinas-Pascual]() | [Sara Linde Neven]() | [Emmy Tither]() |
+| [Natalia Brinas-Pascual]() | [Sara Linde Neven]() | [Emmy Tither](https://www.linkedin.com/in/emmy-t-351a1bb9/) |
 |:---:|:---:|:---:|
-| <img src="/assets/image25/committee/Natalia.png" width="120px" /> | <img src="/assets/image25/committee/Sara.jpeg" width="120px" /> | <img src="/assets/image25/logo_notext_nobg.png" width="120px" /> |
+| <img src="/assets/image25/committee/Natalia.png" width="120px" /> | <img src="/assets/image25/committee/Sara.jpeg" width="120px" /> | <img src="/assets/image25/emmy.jpeg" width="120px" /> |
 | University Carlos III <br> Madrid (Spain) | University of Amsterdam <br> The Netherlands | University of Illinois <br> Urbana-Champaign, USA |
 |:---:|:---:|:---:|
 |:---:|:---:|:---:|
