@@ -18,7 +18,7 @@ title:  Program
 
 -   Mountain hike: discover the beautiful mountains of the region with a group hike.
 
--   Guided tour of Trentino.
+-   Guided tour of the city.
 
 -   Night games and activities.
 
