@@ -20,13 +20,13 @@ This is the 10th edition of the WWCS and it will be held in Trentino at the end 
 
 ## Workshop Dates:
 
--   **End of January 2025**
+-   **26th to 31st of January 2025**
 
 ## Applications:
 
-- Start of applications: **September 2024**
-- Deadline for applications: **October 2024**
-- Notification of acceptance: **November 2024**
+- Start of applications: **TBD (Around September 2024)**
+- Deadline for applications: **TBD (Around October 2024)**
+- Notification of acceptance: **TBD (Around November 2024)**
 
 More details about the application process will be provided soon.
 
