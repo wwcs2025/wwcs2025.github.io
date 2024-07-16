@@ -13,7 +13,7 @@ You can contact us at [wwcs2025@gmail.com](mailto:wwcs2025@gmail.com) or write u
 | University Carlos III <br> Madrid (Spain) | University of Amsterdam <br> The Netherlands | University of Illinois <br> Urbana-Champaign, USA |
 |:---:|:---:|:---:|
 |:---:|:---:|:---:|
-| [Eider Pérez-Ordoyo](https://idontknoweider.github.io) | [Elisa Nobile]() | [Pablo Rosillo-Rodes]() |
+| [Eider Pérez-Ordoyo]() | [Elisa Nobile]() | [Pablo Rosillo-Rodes]() |
 |:---:|:---:|:---:|
 | <img src="/assets/image25/committee/eider.jpg" width="120px" /> | <img src="/assets/image25/committee/Elisa.jpeg" width="120px" /> | <img src="/assets/image25/committee/Pablo.jpg" width="120px" /> |
 | Universidad Pompeu Fabra <br> Barcelona, Spain | University School of Advanced Studies <br> Pavia, Italy | IFISC <br> Balearic Islands, Spain |
