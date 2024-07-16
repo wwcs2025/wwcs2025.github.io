@@ -7,27 +7,27 @@ You can contact us at [wwcs2025@gmail.com](mailto:wwcs2025@gmail.com) or write u
 
 ## Scientific Committee
 
-| [Natalia Brinas-Pascual]() | [Sara Linde Neven]() | [Emmy Tither](https://www.linkedin.com/in/emmy-t-351a1bb9/) |
+| [Natalia Briñas-Pascual]() | [Sara Linde Neven]() | [Emmy Tither](https://www.linkedin.com/in/emmy-t-351a1bb9/) |
 |:---:|:---:|:---:|
 | <img src="/assets/image25/committee/Natalia.png" width="120px" /> | <img src="/assets/image25/committee/Sara.jpeg" width="120px" /> | <img src="/assets/image25/emmy.jpeg" width="120px" /> |
 | University Carlos III <br> Madrid (Spain) | University of Amsterdam <br> The Netherlands | University of Illinois <br> Urbana-Champaign, USA |
 |:---:|:---:|:---:|
 |:---:|:---:|:---:|
-| [Eider Pérez-Ordoyo]() | [Elisa Nobile]() | [Pablo Rosillo-Rodes]() |
+| [Eider Pérez-Ordoyo](https://idontknoweider.github.io) | [Elisa Nobile]() | [Pablo Rosillo-Rodes]() |
 |:---:|:---:|:---:|
-| <img src="/assets/image25/committee/eider.jpg" width="120px" /> | <img src="/assets/image25/logo_notext_nobg.png" width="120px" /> | <img src="/assets/image25/logo_notext_nobg.png" width="120px" /> |
+| <img src="/assets/image25/committee/eider.jpg" width="120px" /> | <img src="/assets/image25/committee/Elisa.jpeg" width="120px" /> | <img src="/assets/image25/committee/Pablo.jpg" width="120px" /> |
 | Universidad Pompeu Fabra <br> Barcelona, Spain | University School of Advanced Studies <br> Pavia, Italy | IFISC <br> Balearic Islands, Spain |
 |:---:|:---:|:---:|
 |:---:|:---:|:---:|
-| [Francesco]() | [Alfredo De Bellis]() | [Mauritz]() |
+| [Francesco Bertolotti]() | [Alfredo De Bellis]() | [Mauritz Cartier van Dissel]() |
 |:---:|:---:|:---:|
-| <img src="/assets/image25/logo_notext_nobg.png" width="120px" /> | <img src="/assets/image25/logo_notext_nobg.png" width="120px" /> | <img src="/assets/image25/logo_notext_nobg.png" width="120px" /> |
+| <img src="/assets/image25/committee/Francesco.jpeg" width="120px" /> | <img src="/assets/image25/committee/Alfredo.png" width="120px" /> | <img src="/assets/image25/committee/Mauritz.png" width="120px" /> |
 | Università Cattaneo <br> Castellanza, Italy | Fondazione Bruno Kessler <br> Trento, Italy | Complexity Science Hub <br> Vienna, Austria |
 |:---:|:---:|:---:|
 |:---:|:---:|:---:|
-| [Todd Davies]() | [Antoine Vendeville](https://antoinevendeville.github.io/) | [Zimai]() |
+| [~~Todd Davies~~]() | [Antoine Vendeville](https://antoinevendeville.github.io/) | [Zimai Li]() |
 |:---:|:---:|:---:|
-| <img src="/assets/image25/committee/Todd.jpg" width="120px" /> | <img src="/assets/image25/committee/antoine.jpg" width="120px" /> | <img src="/assets/image25/logo_notext_nobg.png" width="120px" /> |
+| <img src="/assets/image25/committee/Todd.jpg" width="120px" /> | <img src="/assets/image25/committee/antoine.jpg" width="120px" /> | <img src="/assets/image25/committee/Zimai.jpg" width="120px" /> |
 | UCL Faculty of Laws <br> London, UK | médialab Sciences Po <br> Paris, France | Max Planck Institute for Chemical Ecology <br> Germany |
 
 
