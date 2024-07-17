@@ -14,7 +14,7 @@ The **Winter Workshop on Complex Systems** is a one-week workshop where young re
 
 **The primary focus of the workshop is for participants to engage into novel research projects.**
 
-This is the 10th edition of the WWCS and it will be held in Lombardy at the end of January 2025. Previously it was held in [Catalonia](https://wwcs2024.github.io/), [Amsterdam](https://wwcs2023.github.io/), [Besançon](https://wwcs2022.github.io/), [Charmey](https://wwcs2020.github.io/), Zakopane, [Utrecht](https://wwcs2018.github.io/), [Petnica](https://wwcs2017ed.wixsite.com/wwcs), [Madrid](http://wwcs2016.altervista.org/wwcswordyversion/?doing_wp_cron=1557075926.8519909381866455078125), and Brussels.
+This is the 10th edition of the WWCS and it will be held in Lombardy at the end of January 2025. Previously it was held in [La Vall d'en Bas](https://wwcs2024.github.io/), [Amsterdam](https://wwcs2023.github.io/), [Besançon](https://wwcs2022.github.io/), [Charmey](https://wwcs2020.github.io/), Zakopane, [Utrecht](https://wwcs2018.github.io/), [Petnica](https://wwcs2017ed.wixsite.com/wwcs), [Madrid](http://wwcs2016.altervista.org/wwcswordyversion/?doing_wp_cron=1557075926.8519909381866455078125), and Brussels.
 
 # Important Dates
 
