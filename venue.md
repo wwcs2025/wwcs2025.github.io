@@ -3,9 +3,13 @@ layout: page
 title:  Venue
 ---
 
-Available soon.
+[**Rifugio Madonna delle Nevi**](https://www.madonnadellenevibg.it/) is a beautiful refuge located in the mountains of Lombardia in Italy. It is close to Lake Como and less than two hours car ride from Milan. The venue boasts shared rooms spacious meeting rooms, along with an inviting outdoor space. The venue takes care of all your meals and coffee breaks, considering various dietary requirements, including vegan, vegetarian, gluten-free, and allergy restrictions. 
+
+<img src="/assets/image25/rifugio.jpg" width="800px" /> 
 
 <!---
+
+It is situated just a 1 hour and 30-minute car ride from Barcelona. The venue boasts shared rooms with bunk beds and two spacious meeting rooms, along with an inviting outdoor space. The venue takes care of all your meals and coffee breaks, considering various dietary requirements, including vegan, vegetarian, gluten-free, and allergy restrictions.
 
 # Accomodation
 
