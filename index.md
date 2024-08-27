@@ -37,4 +37,6 @@ More details about the application process will be provided soon.
 Email us at: [wwcs2025@gmail.com](mailto:wwcs2025@gmail.com) <!-- Twitter: "@winter_complex" -->
 
 <center>
-<a class="twitter-timeline" data-width="300" data-height="550" href="https://twitter.com/winter_complex">Tweets by wwcs</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> </center>
+<a class="twitter-timeline" href="https://twitter.com/winter_complex?ref_src=twsrc%5Etfw">Tweets by winter_complex</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<!--<a class="twitter-timeline" data-width="300" data-height="550" href="https://twitter.com/winter_complex">Tweets by wwcs</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> </center>
