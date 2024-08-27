@@ -3,7 +3,7 @@ layout: page
 title: Gallery
 ---
 
-Available soon.
+Pictures of the workshop will be poster here after it takes place. In the meantime, photos of the previous edition in La Vall d'en Bas are available [here](https://wwcs2024.github.io/gallery/).
 
 <!---
 

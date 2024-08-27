@@ -3,7 +3,7 @@ layout: page
 title:  Projects
 ---
 
-Available soon.
+Projects will be proposed by the participants after acceptance.
 
 <!---
 
