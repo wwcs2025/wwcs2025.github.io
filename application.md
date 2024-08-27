@@ -11,10 +11,9 @@ To attend the Winter Workshop, we ask all interested individuals to submit an ap
 
 We aim to create an inclusive, diverse, sociable, and motivated group of young researchers. Excellent applicants with no previous experiences with complexity research will also be considered. In the last years 20-30% of applicants were invited to attend the Winter Workshop.
 
-More details about the application process will be provided soon.
+The application form will be available [here](https://forms.gle/7Csc2GDsEK35mLa49) starting on September 02.
 
 <!---
-The application form is available [here](https://forms.gle/wUn8vCVpjqXkvCjd9).
 
 
 ## Registration
