@@ -24,9 +24,9 @@ This is the 10th edition of the WWCS and it will be held in [**Rifugio Madonna d
 
 ## Applications:
 
-- Start of applications: **TBD (Around September 2024)**
-- Deadline for applications: **TBD (Around October 2024)**
-- Notification of acceptance: **TBD (Around November 2024)**
+- Start of applications: **September 02, 2024**
+- Deadline for applications: **October 20, 2024**
+- Notification of acceptance: **November 05, 2024**
 
 More details about the application process will be provided soon.
 
