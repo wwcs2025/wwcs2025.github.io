@@ -27,7 +27,7 @@ The workshop will exclusively be an onsite event. In case of restrictions due to
 
 ## Accommodation
 
-We will provide you with shared rooms at [Rifugio Madonna delle Nevi](https://www.madonnadellenevibg.it/) in the Catalan Pyrenees.
+We will provide you with shared rooms at [Rifugio Madonna delle Nevi](https://www.madonnadellenevibg.it/) in the beautiful mountains of Lombardia, in Italy.
 
 We will split the rooms based on gender. In case you prefer to have a single room, please send us an email to [wwcs2025@gmail.com](mailto:wwcs2025@gmail.com).
 
