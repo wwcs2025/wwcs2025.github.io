@@ -3,19 +3,16 @@ layout: page
 title:  Speakers
 ---
 
-Available soon.
+
+<img style="float: centre;" src="/assets/image25/Speakers_Leto_transparent.png" width="40%"/>
+
+[Leto Peel](https://piratepeel.github.io/)
+
+Leto Peel is an Assistant Professor at the Department of Data Analytics and Digitalisation of Maastricht University and one of the founders of the WWCS. His main research interests are in machine learning for complex networks, in particular the use of probabilistic generative models and Bayesian inference.
+
+More information coming soon!
 
 <!---
-
-<img style="float: centre;" src="/assets/image24/speakers/alberto.jpeg" width="40%"/>
-
-[Alberto Aletá](https://aaleta.github.io/)
-
-Dr. Alberto Aletá is a Spanish physicist and data scientist expert on the field of Complex Systems. He is mostly known for his work on epidemic modelling, specially during the Covid-19 pandemic. However, his interests are very interdisciplinary, with contributions in fields like game theory, sustainable nutrition and social dynamics.  
-
-Alberto’s work is characterised by the use of data driven approaches to model dynamical systems and a quest for unraveling the causal mechanisms behind the dynamics observed. His works often rely on the use of agent based models, network science, higher order networks and multivariate statistics. 
-
-Alberto obtained his PhD in Physics (Cum Laude) from the Universidad of Zaragoza in 2019 and then he did a postdoc stay at ISI Foundation (Torino, Italy) until 2022. Recently he has been granted a Ramón y Cajal fellowship and is currently working at the Instituto Universitario de Investigación de Biocomputación y Física de Sistemas Complejos (BIFI).
 
 <img style="float: centre;" src="/assets/image24/speakers/sofia.jpeg" width="40%"/>
 
