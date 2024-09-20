@@ -8,7 +8,7 @@ title:  Speakers
 
 [Leto Peel](https://piratepeel.github.io/)
 
-Leto Peel is an Assistant Professor at the Department of Data Analytics and Digitalisation of Maastricht University and one of the founders of the WWCS. His main research interests are in machine learning for complex networks, in particular the use of probabilistic generative models and Bayesian inference.
+Leto Peel is an Assistant Professor at the Department of Data Analytics and Digitalisation of Maastricht University and was involved in the start of the WWCS. His main research interests are in machine learning for complex networks, in particular the use of probabilistic generative models and Bayesian inference.
 
 More information coming soon!
 
