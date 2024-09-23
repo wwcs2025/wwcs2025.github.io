@@ -6,10 +6,15 @@ title:  Speakers
 
 <img style="float: centre;" src="/assets/image25/Speakers_Leto_transparent.png" width="40%"/>
 
-[Leto Peel](https://piratepeel.github.io/)
+[**Leto Peel**](https://piratepeel.github.io/)
 
 Leto Peel is an Assistant Professor at the Department of Data Analytics and Digitalisation of Maastricht University and was involved in the start of the WWCS. His main research interests are in machine learning for complex networks, in particular the use of probabilistic generative models and Bayesian inference.
 
+<img style="float: centre;" src="/assets/image25/Speakers_Gale.jpeg" width="40%"/>
+
+**Alessandro Galeazzi**
+
+Alessandro Galeazzi is an Assistant Professor in the Department of Mathematics at the University of Padova. He works on topics related to complex systems, social networks and the formation of echo chambers on social media. He also really loves the mountains, so this WWCS is in the perfect location for him!
 More information coming soon!
 
 <!---
