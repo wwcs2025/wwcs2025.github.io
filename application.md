@@ -34,3 +34,6 @@ We will split the rooms based on gender. In case you prefer to have a single roo
 ## Travel Grant
 
 We hope to enable all students independent of financial means to attend the winter school. Therefore, we have reserved a limited budget for travel grants. Please send us an email with a motivation (200 words) and a list of needed funds to our email address [wwcs2025@gmail.com](mailto:wwcs2025@gmail.com). With the acceptance letter, we will notify you with how much money we can support you. In case the required budget exceeds the available funds, we might not be able to cover all your needed costs.
+
+## SECS grant
+You may also apply for the [SECS grant of the yrCSS](https://yrcss.cssociety.org/grants/secs/). Successful applicants will be reimbursed up to 800€ for their expenses, including travel and registration.
