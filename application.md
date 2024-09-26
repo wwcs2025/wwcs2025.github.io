@@ -48,4 +48,4 @@ Fundación Sicómoro offers 3 scholarships for applicants to the workshop. To be
 
 3.⁠ ⁠**Submit a motivation letter:** Attach a letter of motivation addressed to Fundación Sicómoro, explaining why you want to participate and why you should be awarded the scholarship. This letter of motivation should be a different letter to the cover letter for the workshop.
 
-    If awarded the scholarship, you will be exempt from paying the registration fee for the WWCS2025. Scholarship recipients are expected to participate fully in the workshop and will provide a summary in Spanish of their experience to Fundación Sicómoro after the event.
+If awarded the scholarship, you will be exempt from paying the registration fee for the WWCS2025. Scholarship recipients are expected to participate fully in the workshop and will provide a summary in Spanish of their experience to Fundación Sicómoro after the event.
