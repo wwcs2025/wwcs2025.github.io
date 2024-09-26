@@ -3,7 +3,9 @@ layout: page
 title:  Sponsors
 ---
 
-Available soon.
+<img href="https://www.fundacionsicomoro.org/" src="/assets/image25/Sicomoro_logo.png" width="60%"/>
+
+And more to come!
 
 <!---
 
