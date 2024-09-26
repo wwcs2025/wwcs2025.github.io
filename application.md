@@ -29,8 +29,6 @@ The workshop will exclusively be an onsite event. In case of restrictions due to
 
 We will provide you with shared rooms at [Rifugio Madonna delle Nevi](https://www.madonnadellenevibg.it/) in the beautiful mountains of Lombardia, in Italy.
 
-We will split the rooms based on gender. In case you prefer to have a single room, please send us an email to [wwcs2025@gmail.com](mailto:wwcs2025@gmail.com).
-
 ## Travel Grant
 
 We hope to enable all students independent of financial means to attend the winter school. Therefore, we have reserved a limited budget for travel grants. Please send us an email with a motivation (200 words) and a list of needed funds to our email address [wwcs2025@gmail.com](mailto:wwcs2025@gmail.com). With the acceptance letter, we will notify you with how much money we can support you. In case the required budget exceeds the available funds, we might not be able to cover all your needed costs.
