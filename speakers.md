@@ -15,6 +15,13 @@ Leto Peel is an Assistant Professor at the Department of Data Analytics and Digi
 **Alessandro Galeazzi**
 
 Alessandro Galeazzi is an Assistant Professor in the Department of Mathematics at the University of Padova. He works on topics related to complex systems, social networks and the formation of echo chambers on social media. He also really loves the mountains, so this WWCS is in the perfect location for him!
+
+<img style="float: centre;" src="/assets/image25/Speakers_Angelica_transparent.png" width="40%"/>
+
+[**Angelica Sbardella**](https://www.cref.it/en/personale-di-ricerca/angelica-sbardella-3/)
+
+Angelica Sbardella is a researcher at Centro Ricerche Enrico Fermi in Rome and associate researcher at SOAS-University of London. She will present her work on productive complexity, technological capabilities and inequality in the sustainable transition, and guide us through the path of data-driven approaches in economic complexity.
+
 More information coming soon!
 
 <!---
