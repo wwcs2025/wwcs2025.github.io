@@ -6,7 +6,7 @@ title:  Application
 To attend the Winter Workshop, we ask all interested individuals to submit an application form and a CV. Bear in mind the following dates:
 
 - Start of applications: **September 02, 2024**
-- Deadline for applications: **October 13, 2024**
+- Deadline for applications: **EXTENDED UNTIL October 16, 2024 (23:59 CEST)**
 - Notification of acceptance: **November 05, 2024**
 
 We aim to create an inclusive, diverse, sociable, and motivated group of young researchers. Excellent applicants with no previous experiences with complexity research will also be considered. In the last years 20-30% of applicants were invited to attend the Winter Workshop.
