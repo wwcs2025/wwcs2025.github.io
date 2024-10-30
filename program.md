@@ -12,6 +12,8 @@ title:  Program
 
 -   Projects: participants will split into groups and will formalize a research question. They will present their (partial) results on the last day of the workshop.
 
+-   Poster session: a panel where willing participants expose posters showing their work.
+
 **Social activities:**
 
 -   Social event in Bergamo/Verona before leaving for the venue.
