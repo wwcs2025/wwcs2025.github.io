@@ -9,6 +9,8 @@ And more to come!
 
 <!---
 
+<img href="https://ysi.ineteconomics.org/" src="/assets/image25/ysi.png" width="60%"/>
+
 &nbsp; &nbsp; &nbsp;
 <img href="https://www.fundacionsicomoro.org/" src="/assets/image24/sicomoro.png" width="60%"/>
 
