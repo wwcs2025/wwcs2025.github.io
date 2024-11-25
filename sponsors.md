@@ -9,6 +9,8 @@ title:  Sponsors
 
 <img href="https://www.iusspavia.it/en" src="/assets/image25/LogoIUSS_CMYK.jpg" width="50%"/>
 
+<img href="https://dse.unibg.it/en" src="/assets/image25/UniBG_DSE_Positivo.png" width="50%"/>
+
 And more to come!
 
 <!---
