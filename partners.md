@@ -7,4 +7,4 @@ title:  Partners
 
 <img href="https://dse.unibg.it/en" src="/assets/image25/UniBG_DSE_Positivo.png" width="50%"/>
 
-<img href="https://dse.unibg.it/en" src="/assets/image25/PhD SDC - Logo full-nero.pdf" width="50%"/>
+<img href="https://dse.unibg.it/en" src="/assets/image25/phdsdc_logo.png" width="50%"/>
