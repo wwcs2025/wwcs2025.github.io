@@ -9,8 +9,6 @@ title:  Partners
 
 <img href="https://dse.unibg.it/en" src="/assets/image25/PhD SDC - Logo full-nero.pdf" width="50%"/>
 
-And more to come!
-
 <!---
 
 &nbsp; &nbsp; &nbsp;
