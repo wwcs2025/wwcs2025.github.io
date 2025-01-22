@@ -6,7 +6,7 @@ title:  Program
 
 **Main activities:**
 
--   Keynote talks: speakers to be announced.
+-   Keynote talks: given by the speakers in the speakers section of the webpage. One of the talks will be given previous to the presentation of the projects at University of Begamo
 
 -   Tutorials: proposed and given by the participants on relevant topics.
 
@@ -16,12 +16,14 @@ title:  Program
 
 **Social activities:**
 
--   Social event in Bergamo/Verona before leaving for the venue.
+-   Social event in Bergamo before leaving for the venue.
 
 -   Mountain hike: discover the beautiful mountains of the region with a group hike.
 
--   Guided tour of the city.
+-   Stargazing activity if the weather allows
+
+-   Cooking workshop.
 
 -   Night games and activities.
 
-<img src="/assets/image25/program_new.png" width="100%"/>
+<img src="/assets/image25/program_final_pre.png" width="100%"/>
