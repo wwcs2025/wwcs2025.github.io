@@ -9,4 +9,5 @@ title:  Sponsors
 
 [![Frontiers in Complex Systems' logo](/assets/image25/frontiers_logo.png 'Frontiers in Complex Systems')](https://www.frontiersin.org/journals/complex-systems)
 
-[![Complex Systems' Society's logo](/assets/image25/CSS_logo.png 'Complex Systems' Society')](https://cssociety.org/home)
+[![Frontiers in Complex Systems' logo](/assets/image25/CSS_logo.png 'Complex Systems Society')](https://www.frontiersin.org/journals/complex-systems)
+
