@@ -23,7 +23,7 @@ Alessandro Galeazzi is an Assistant Professor in the Department of Mathematics a
 Angelica Sbardella is a researcher at Centro Ricerche Enrico Fermi in Rome and associate researcher at SOAS-University of London. She will present her work on productive complexity, technological capabilities and inequality in the sustainable transition, and guide us through the path of data-driven approaches in economic complexity.
 
 
-<img style="float: centre;" src="/assets/image25/speakers_alessandro.png" width="40%"/>
+<img style="float: centre;" src="/assets/image25/Speakers_Fasso.png" width="40%"/>
 
 **Alessandro Fassò**
 
