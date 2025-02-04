@@ -22,7 +22,12 @@ Alessandro Galeazzi is an Assistant Professor in the Department of Mathematics a
 
 Angelica Sbardella is a researcher at Centro Ricerche Enrico Fermi in Rome and associate researcher at SOAS-University of London. She will present her work on productive complexity, technological capabilities and inequality in the sustainable transition, and guide us through the path of data-driven approaches in economic complexity.
 
-More information coming soon!
+
+<img style="float: centre;" src="/assets/image25/Speakers_Fasso.png" width="40%"/>
+
+**Alessandro Fassò**
+
+Alessandro Fassò is a Full Professor of Statistics at the University of Bergamo, Italy, specializing in environmental statistics. He has served as President of The International Environmetrics Society (TIES) and as a member of the Council of the International Statistical Institute (ISI). A founder of GRASPA, the Italian Statistical Society's working group on environmental statistics, he is also involved in the World Meteorological Organization’s WG-GRUAN. His research contributions include leadership roles in projects such as Horizon 2020 GAIA-CLIM and Copernicus Climate Service initiatives. Currently, he serves as Editor-in-Chief of Environmetrics and as Associate Editor for several prestigious statistical journals. He will present the work he does at the University of Bergamo before the presentation of the projects.
 
 <!---
 
