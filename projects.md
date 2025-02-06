@@ -10,7 +10,7 @@ Anna Maria Boros, Lluís Torres, Marc Sadurní, Jaume Llabrés, Pedro Jiménez, 
 This study explores the impact of altruism on decision-making in a public goods game, where individuals must balance self-interest with collective benefit. We propose a model in which agents are characterized by fixed levels of altruism and importance assigned to a common goal. Each agent decides how much to contribute based on a utility function that accounts for personal funds, goal achievement, and social satisfaction. Through simulations, we analyze how different societal distributions—uniform and biased—affect the likelihood of reaching collective goals and the overall satisfaction of individuals. Our findings suggest that altruism significantly influences public decision-making, with more cooperative societies achieving goals more effectively and yielding higher collective satisfaction.
 
 ## Unmosquing the data
-Antón Carcedo Martínez, Tjeerd Rudmer de Vries, Maja Lindström, Bryn Loftness, Andrew Nicoll, Ramona Ottow, Sina Sajjadi
+Antón Carcedo Martínez, Tjeerd Rudmer de Vries, Maja Lindström, Bryn Loftness, Andrew Nicoll, Ramona Ottow, Sina Sajjadi.
 
 **Abstract:**
 This project looks at how consistently people get involved in tracking mosquito populations over time in Barcelona, Catalunya. Using data from citizen science reports and mosquito traps, we explore how factors like engagement over time influence data quality. We additionally develop a network representation that could increase prediction accuracy. Ultimately, the research aims to optimize data collection for more accurate vector monitoring.
