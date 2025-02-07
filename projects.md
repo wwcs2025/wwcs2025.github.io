@@ -18,11 +18,17 @@ This project looks at how consistently people get involved in tracking mosquito 
 ## Measuring controversiality in DerStandard: a data piñata approach
 Elena Candellone, Darja Cvetković, Ozgur Togay, David March, Timur Naushirvanov, Simon D. Lindner, Emma Fraxanet, Elena G. de Lamo.
 
-## Climate change and food system resilience
+**Abstract:**
+In this project, we investigated the correlation between controversiality metrics—both pre-defined and newly designed—derived from various features of discussion forums on DerStandard, a popular Austrian online newspaper. Our methods included the analysis of user-user interaction networks, the application of correspondence analysis to uncover latent ideological dimensions, the examination of thread structures and their temporal formation, and the exploration of the relationship between positive or negative votes and users' likelihood of writing a reply.
+
+## Pastalavista: climate change and food system resilience
 Adam Finnemann, Alberto Fernandez Perez, Vittorio Giordano, Amaia Vielba Trillo, Gavin Rolls, Homa Esmaeli Sooderjani, Davide Mauro Ferrario, Andrea Vito Vacca, Juan Arellano Tintó, Sophia Baum.
 
+**Abstract:**
+We performed a preliminary resilience analysis of the global food supply network by stress-testing four major crop types under various climate scenarios, considering variations in global precipitation and temperature patterns. Additionally, we examined how reductions in crop yield impact trade shares between countries using a network-based shipping model.
+
 ## Group Structure Effect in Collective Navigation
-Anna Sigalou, Leonardo Federici, Andrés Guzmán, Elia Moretti, Lucas Hedström, Niels Van Santen, Sabin Roman
+Anna Sigalou, Leonardo Federici, Andrés Guzmán, Elia Moretti, Lucas Hedström, Niels Van Santen, Sabin Roman.
 
 ## NeuroMofits
 Ivan Bulygin, Charlotte Geier, Jun Yamamoto, Marco Fele, Akanksha Gupta, Nicolás Bessone, Giulio Iannelli.
