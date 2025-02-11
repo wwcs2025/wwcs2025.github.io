@@ -27,10 +27,13 @@ Adam Finnemann, Alberto Fernandez Perez, Vittorio Giordano, Amaia Vielba Trillo,
 **Abstract:**
 We performed a preliminary resilience analysis of the global food supply network by stress-testing four major crop types under various climate scenarios, considering variations in global precipitation and temperature patterns. Additionally, we examined how reductions in crop yield impact trade shares between countries using a network-based shipping model.
 
-## Group Structure Effect in Collective Navigation
-Anna Sigalou, Leonardo Federici, Andrés Guzmán, Elia Moretti, Lucas Hedström, Niels Van Santen, Sabin Roman.
-
 ## NeuroMofits
 Ivan Bulygin, Charlotte Geier, Jun Yamamoto, Marco Fele, Akanksha Gupta, Nicolás Bessone, Giulio Iannelli.
+
+**Abstract:**
+During simple movements such as reaching an arm, neuronal circuits in motor cortex produce large excursions of the activity, which eventually return to baseline. In order to understand the neuronal connectivity that achieves such balance between stability and amplification of the neural activity dynamics, we analyze the underlying network structures of the stability optimized circuit (SOC) - a model of the motor cortex. Specifically, we focus on the rich landscape of directed, signed and weighted network motifs, interpreting them as key network ingredients, that enable complex neural dynamics.
+
+## Group Structure Effect in Collective Navigation
+Anna Sigalou, Leonardo Federici, Andrés Guzmán, Elia Moretti, Lucas Hedström, Niels Van Santen, Sabin Roman.
 
 ## Network Analysis of Cryptoasset Ecosystem Resilience
