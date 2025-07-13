@@ -11,4 +11,4 @@ title:  Partners
 
 <img src="/assets/image25/logo-anecoop2.png" width="45%"/>
 
-<img src="/assets/image25/bodega.jpg" width="45%"/>
+<img src="/assets/image25/bodega.jpg" width="50%"/>
